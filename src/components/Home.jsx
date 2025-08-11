@@ -15,9 +15,9 @@ const Home = () => {
             I'm a Full Stack Developer!
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I'm a final Year Student having experience of building and desgining Web Application.
-            Currently, I love to work on web application using technologies like
-            React, NodeJs, ExpressJs etc.
+            I'm a final Year Student having experience of building and desgining
+            Web Application. Currently, I love to work on web application using
+            technologies like React, NodeJs, ExpressJs etc.
           </p>
 
           <div>
@@ -39,7 +39,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            className="rounded-full  shadow-lg shadow-cyan-500/100 mx-auto w-2/3 md:w-22 "
+            className="rounded-full  shadow-xl shadow-cyan-600/100 mx-auto w-2/3 md:w-22 "
           />
         </div>
       </div>
